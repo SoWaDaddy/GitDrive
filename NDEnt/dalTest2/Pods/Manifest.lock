@@ -1,0 +1,16 @@
+PODS:
+  - FSCalendar (2.7.9)
+
+DEPENDENCIES:
+  - FSCalendar (~> 2.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FSCalendar
+
+SPEC CHECKSUMS:
+  FSCalendar: a04b09f16f811bc92e82f3cf852a15225233b9d5
+
+PODFILE CHECKSUM: 1e8137d1082901ba9b9abb61ba57d2dcb9e72229
+
+COCOAPODS: 1.5.3
